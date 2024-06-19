@@ -1,4 +1,4 @@
- import os
+import os
 import threading
 from mnemonic import Mnemonic
 import bip32utils
